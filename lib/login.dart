@@ -23,7 +23,6 @@ class LoginPage extends StatelessWidget {
         body: Container(
           height: 280,//MediaQuery.of(context).size.height,
           width: double.infinity,
-
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
